@@ -1,0 +1,13 @@
+{
+  "name": "OnlyUs",
+  "description": "An ultra-minimalist, high-end private peer-to-peer visual transceiver for OnlyUs, styled in brutalist monochrome elegance with end-to-end direct WebRTC transmission.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "p2p-communication",
+    "video-calling",
+    "encrypted-chat"
+  ]
+}
